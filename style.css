@@ -1,0 +1,13 @@
+h1{color: #4000ff;margin-left: 15px}
+
+h2{color: #ff4000;margin-left: 15px}
+
+body{ background-image: url("../img/DOLI PSG DITABOK.gif");
+
+
+#nav {border-bottom: 3px dashed #ff3333;
+	border-left: 3px dashed yellow;
+	border-right: 3px dashed red;
+	border-top: 3px dashed green;
+	margin: 100px 60px 100px 60px;
+	padding: 7px 65px 45px 100px}
